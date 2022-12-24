@@ -1,0 +1,12 @@
+var/*
+!var/database
+!var/backups/.htaccess
+!var/restore/.htaccess
+!var/resources
+!var/langs
+!var/conf
+var/langs/*
+!var/langs/en
+!var/.htaccess
+!var/index.php
+!var/builds
