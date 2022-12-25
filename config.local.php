@@ -67,7 +67,7 @@ $config['https_path'] = '/cscart';
  */
 // Names of index files for the frontend and backend
 $config['customer_index'] = 'index.php';
-$config['admin_index']    = 'dashboard_panel.php';
+$config['admin_index']    = 'admin.php';
 
 
 // DEMO mode
